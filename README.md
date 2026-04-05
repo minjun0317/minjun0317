@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:FF6CAB,100:7366FF&height=140&section=body&text=🍎%20iOS%20Developer%20Minjun&fontSize=32)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:FF6CAB,100:7366FF&height=100&section=header&text=🍎%20iOS%20Developer%20Minjun&fontSize=40)
 
 > “꾸준히 기록합니다”
 
