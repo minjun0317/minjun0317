@@ -1,5 +1,5 @@
 # 🍎 iOS Developer Minjun
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:FF6CAB,100:7366FF&height=200&section=header&text=Minjun&fontSize=40)
 > “꾸준히 만들고, 기록합니다”
 
 ---
