@@ -6,7 +6,7 @@
 
 ## 🧑‍💻 About Me
 
-* iOS 개발 공부 중 (Swift, SwiftUI)
+* iOS 개발 공부 중 (Swift, SwiftUI, UIKIT)
 * 알고리즘 문제 해결 (Baekjoon)
 * TIL로 학습 기록
 
