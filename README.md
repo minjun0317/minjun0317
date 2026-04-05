@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=🍎%20iOS%20Developer&fontSize=45&fontColor=D1D1D6&v=3)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=200&section=header&text=🍎%20iOS%20Developer&fontSize=45&fontColor=D1D1D6&v=5)
 
 > “”
 
@@ -16,8 +16,8 @@
 
 ![Swift](https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge\&logo=swift\&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge\&logo=apple\&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-0A84FF?style=for-the-badge\&logo=swift\&logoColor=white)
-![UIKit](https://img.shields.io/badge/UIKit-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0A84FF?style=for-the-badge&logo=swift&logoColor=white)
+![UIKit](https://img.shields.io/badge/UIKit-0A84FF?style=for-the-badge&logo=swift&logoColor=white)
 
 ---
 
