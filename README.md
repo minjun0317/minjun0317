@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:FF6CAB,100:7366FF&height=250&section=header&text=🍎%20iOS%20Developer%20Minjun&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=200&section=header&text=🍎%20iOS%20Developer&fontSize=45&fontColor=FFFFFF)
 
-> “꾸준히 기록합니다”
+> “”
 
 ---
 
@@ -12,11 +12,12 @@
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 Stack
 
 ![Swift](https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge\&logo=swift\&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge\&logo=apple\&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-0A84FF?style=for-the-badge\&logo=swift\&logoColor=white)
+![UIKit](https://img.shields.io/badge/UIKit-000000?style=for-the-badge&logo=apple&logoColor=white)
 
 ---
 
