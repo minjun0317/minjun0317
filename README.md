@@ -1,16 +1,46 @@
-## Hi there 👋
+# 🍎 iOS Developer Minjun
 
-<!--
-**minjun0317/minjun0317** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> “꾸준히 만들고, 기록합니다”
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+
+* iOS 개발 공부 중 (Swift, SwiftUI)
+* 알고리즘 문제 해결 (Baekjoon)
+* TIL로 학습 기록
+
+---
+
+## 🚀 Tech Stack
+
+![Swift](https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge\&logo=swift\&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge\&logo=apple\&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0A84FF?style=for-the-badge\&logo=swift\&logoColor=white)
+
+---
+
+## 🧠 Algorithm
+
+* Baekjoon 문제 풀이
+
+---
+
+## 📚 TIL
+
+* 하루 1커밋 목표
+* 배운 것 기록
+
+---
+
+## 📌 Projects
+
+* 📱 iOS 앱 개발
+* 📘 알고리즘 정리 레포
+
+---
+
+## 🔥 Goal
+
+* iOS 앱 출시
+* 꾸준한 개발 습관 만들기
