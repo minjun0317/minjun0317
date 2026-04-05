@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=200&section=header&text=🍎%20iOS%20Developer&fontSize=45&fontColor=F5F5F5)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=200&section=header&text=🍎%20iOS%20Developer&fontSize=45&fontColor=C7C7CC)
 
 > “”
 
