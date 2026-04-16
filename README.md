@@ -2,8 +2,8 @@
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=minjun0317&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minjun0317&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=minjun0317&show_icons=true&theme=tokyonight" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minjun0317&layout=compact&theme=tokyonight" height="165"/>
 
 </div>
 
