@@ -1,12 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=200&section=header&text=🍎%20iOS%20Developer&fontSize=45&fontColor=888888&v=10)
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=minjun0317&show_icons=true&theme=tokyonight&hide=issues,contribs" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minjun0317&layout=compact&theme=tokyonight&langs_count=6" height="165"/>
-
-</div>
-
 > “”
 
 ---
@@ -16,6 +9,12 @@
 * iOS 개발 공부 중 (Swift, SwiftUI, UIKIT)
 * 알고리즘 문제 해결 (Baekjoon)
 * TIL로 학습 기록
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=minjun0317&show_icons=true&theme=tokyonight&hide=issues,contribs" height="165"/>
+
+</div>
 
 ---
 
@@ -42,6 +41,12 @@
 
 * 하루 1커밋 목표
 * 배운 것 기록
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minjun0317&layout=compact&theme=tokyonight&langs_count=6" height="165"/>
+
+</div>
 
 ---
 
