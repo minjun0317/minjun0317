@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=200&section=header&text=🍎%20iOS%20Developer&fontSize=45&fontColor=888888&v=10)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_ID&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_ID)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_ID)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=minjun0317&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minjun0317)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=minjun0317)
 
 > “”
 
