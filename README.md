@@ -49,6 +49,4 @@
 * iOS 앱 출시
 * 꾸준한 개발 습관 만들기
 
-<div style="background-color:#0d1117; padding:20px;">
-  <img src="https://render.gitanimals.org/farms/minjun0317" width="600"/>
-</div>
+<img src="https://render.gitanimals.org/farms/minjun0317" width="600"/>
