@@ -2,8 +2,6 @@
 
 > “”
 
-![gitanimals](https://render.gitanimals.org/farms/minjun0317?)
-
 ---
 
 ## 🧑‍💻 About Me
@@ -47,4 +45,4 @@
 * iOS 앱 출시
 * 꾸준한 개발 습관 만들기
 
-
+![gitanimals](https://render.gitanimals.org/farms/minjun0317?)
