@@ -7,7 +7,8 @@
 ## 🧑‍💻 About Me
 
 * iOS 개발 공부 중 (Swift, SwiftUI, UIKIT)
-* 알고리즘 문제 해결 (Baekjoon)
+* IT-DA 개발 중
+* 알고리즘 문제 해결
 * TIL로 학습 기록
 
 <div align="center">
@@ -33,7 +34,7 @@
 
 ## 🧠 Algorithm
 
-* Baekjoon 문제 풀이
+* 프로그래머스 문제 풀이
 
 ---
 
@@ -63,8 +64,12 @@
 
 ---
 
+##  Animals 
+
 <div align="center">
 
 <img src="https://render.gitanimals.org/farms/minjun0317" width="600"/>
+
+---
 
 </div>
