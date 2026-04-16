@@ -2,8 +2,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=minjun0317&show_icons=true&theme=tokyonight" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minjun0317&layout=compact&theme=tokyonight" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=minjun0317&show_icons=true&theme=tokyonight" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minjun0317&layout=compact&theme=tokyonight" width="48%"/>
 
 </div>
 
