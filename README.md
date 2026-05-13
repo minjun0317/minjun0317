@@ -4,12 +4,12 @@
 
 ---
 
-## 🧑‍💻 About Me
+# 🧑‍💻 About Me
 
-* iOS 개발 공부 중 (Swift, SwiftUI, UIKIT)
-* IT-DA 개발 중
-* 알고리즘 문제 해결
-* TIL로 학습 기록
+- iOS 개발 공부 중 (Swift, SwiftUI, UIKit)
+- IT-DA 개발 중
+- 알고리즘 문제 해결
+- TIL로 학습 기록
 
 <div align="center">
 
@@ -19,12 +19,12 @@
 
 ---
 
-## 🚀 Stack
+# 🚀 Stack
 
 <div align="center">
 
-![Swift](https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge\&logo=swift\&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge\&logo=apple\&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-0A84FF?style=for-the-badge&logo=swift&logoColor=white)
 ![UIKit](https://img.shields.io/badge/UIKit-0A84FF?style=for-the-badge&logo=swift&logoColor=white)
 
@@ -32,16 +32,17 @@
 
 ---
 
-## 🧠 Algorithm
+# 🧠 Algorithm
 
-* 프로그래머스 문제 풀이
+- 프로그래머스 문제 풀이
+- 백준 알고리즘 학습
 
 ---
 
-## 📚 TIL
+# 📚 TIL
 
-* 하루 1커밋 목표
-* 배운 것 기록
+- 하루 1커밋 목표
+- 배운 것 기록
 
 <div align="center">
 
@@ -51,25 +52,26 @@
 
 ---
 
-## 📌 Projects
+# 📌 Projects
 
-* 📱 iOS 앱 개발하고 싶음
-
----
-
-## 🔥 Goal
-
-* iOS 앱 출시
-* 꾸준한 개발 습관 만들기
+- 📱 IT-DA
+- 📱 iOS 앱 개발
+- 🎨 SwiftUI UI 연습
 
 ---
 
-##  Animals 
+# 🔥 Goal
+
+- iOS 앱 출시
+- 꾸준한 개발 습관 만들기
+- 협업 능력 키우기
+
+---
+
+#  Animals 
 
 <div align="center">
 
 <img src="https://render.gitanimals.org/farms/minjun0317" width="600"/>
-
----
 
 </div>
