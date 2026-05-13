@@ -77,6 +77,7 @@ iOS Developer
 # 📌 Projects
 
 - 📱 IT-DA
+- 🗓️ MayWave
 - 📱 iOS 앱 개발
 - 🎨 SwiftUI UI 연습
 - 🛠️ 팀 프로젝트 협업 경험
