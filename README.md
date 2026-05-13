@@ -11,12 +11,6 @@
 - 알고리즘 문제 해결
 - TIL로 학습 기록
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=minjun0317&show_icons=true&theme=tokyonight&hide=issues,contribs" height="165"/>
-
-</div>
-
 ---
 
 # 🚀 Stack
@@ -27,6 +21,28 @@
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-0A84FF?style=for-the-badge&logo=swift&logoColor=white)
 ![UIKit](https://img.shields.io/badge/UIKit-0A84FF?style=for-the-badge&logo=swift&logoColor=white)
+
+</div>
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=minjun0317&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minjun0317&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 Activity Graph
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=minjun0317&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -43,12 +59,6 @@
 
 - 하루 1커밋 목표
 - 배운 것 기록
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minjun0317&layout=compact&theme=tokyonight&langs_count=6" height="165"/>
-
-</div>
 
 ---
 
