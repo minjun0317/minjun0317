@@ -20,4 +20,4 @@ iOS Developer
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-![github-contribution-grid-snake](https://raw.githubusercontent.com/minjun0317/minjun0317/output/github-contribution-grid-snake.svg)
+![github-contribution-grid-snake](https://raw.githubusercontent.com/minjun0317/minjun0317/refs/heads/output/github-contribution-grid-snake.svg)
