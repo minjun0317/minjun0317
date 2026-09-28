@@ -18,5 +18,10 @@ iOS Developer
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
-
-![github-contribution-grid-snake](https://raw.githubusercontent.com/minjun0317/minjun0317/refs/heads/output/github-contribution-grid-snake.svg)
+<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=minjun0317&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/minjun0317"
+  width="600"
+  height="300"
+/>
+</a>
